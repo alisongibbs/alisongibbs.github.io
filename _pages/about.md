@@ -8,7 +8,7 @@ redirect_from:
 author_profile: yes
 ---
 
-I am a Professor, Teaching Stream in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) and Director of the [Centre for Teaching Support and Innovation](https://teaching.utoronto.ca) at the [University of Toronto](https://www.utoronto.ca).
+I am a Professor, Teaching Stream in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](https://www.utoronto.ca) and President-elect of the [International Association for Statistical Education](https://iase-web.org).
 
 I am interested in the teaching and learning of Statistics and Data Science at all levels, from primary through graduate school.  I am engaged in various projects related to data science in schools, online learning, inverted classrooms, statistics curriculum development, achieving adaptive expertise, and the development of professional identity. 
 
