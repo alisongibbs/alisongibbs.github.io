@@ -19,7 +19,7 @@ Education
 Employment
 ======
 
-* 2020-present: Director, Centre for Teaching Support and Innovation, University of Toronto  
+* 2020-2025: Director, Centre for Teaching Support and Innovation, University of Toronto  
 * 2018-present: Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto
 * 2015-18: Associate Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto
 * 2014-19: Associate Chair, Undergraduate Studies in Statistics, Department of Statistical Sciences, University of Toronto
