@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Department of Statistical Sciences:
+## Department of Statistical Sciences
 
 **For inquiries about statistics courses and programs of study:**   
 ug.statistics AT utoronto.ca

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alison L Gibbs"
 title_separator          : "-"
 name                     : &name "Alison L Gibbs"
-description              : &description "Director, Centre for Teaching Support and Innovation and Professor, Teaching Stream"
+description              : &description "Professor, Teaching Stream"
 url                      : https://alisongibbs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/alisongibbs/alisongibbs.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : AlisonLGibbs
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Alison L Gibbs"
   avatar           : "alison_1.2crop.jpg"
-  bio              : "Director, Centre for Teaching Support and Innovation and Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto"
+  bio              : "Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto"
   location         : "Toronto, ON"
   employer         : 
   googlescholar    : https://scholar.google.ca/citations?user=L8bdkCkAAAAJ&hl=en
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AlisonLGibbs"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
